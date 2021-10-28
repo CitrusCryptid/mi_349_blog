@@ -95,3 +95,8 @@ label{
     margin-right: 50px;
     color: gold;
 }
+
+#title {
+    text-align: center;
+    border-bottom: 1px peru;
+}
