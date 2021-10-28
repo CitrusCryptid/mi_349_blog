@@ -5,6 +5,8 @@ body {
 
 h1{
     color: lightseagreen;
+    text-align: center;
+    text-size-adjust: 42;
     border-top: 3px solid chartreuse;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
    border-bottom: 3px solid chartreuse;
