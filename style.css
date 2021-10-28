@@ -26,7 +26,7 @@ h3{
 }
 
 table {
-    color: peru;
+    
     font-family: 'Times New Roman', Times, serif;
     border-right: 4px solid lightcoral;
     border-left: 4px solid lightcoral;
@@ -34,10 +34,12 @@ table {
     border-bottom: 4px solid lightcoral;
 }
 th {
+    color: lightseagreen;
     border-left: 2px solid lightcoral;
     border-right: 2px solid lightcoral;
 }
 td {
+    color: peru;
     border-left: 2px solid lightcoral;
     border-right: 2px solid lightcoral;
     border-top: 2px solid lightcoral;
