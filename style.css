@@ -30,6 +30,7 @@ p {
 }
 a {
     border-right: 2px solid gold;
+    font-family: fantasy;
    color: mediumaquamarine; 
    border-left: 2px solid gold;
 }
