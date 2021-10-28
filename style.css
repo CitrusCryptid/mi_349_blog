@@ -1,13 +1,27 @@
 body {
     background-color: black;
-    color: greenyellow;
-    text-align: center;
+   text-align: center;
 }
 h1{
+    border-top: 5px lightgreen;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   border-bottom: 5px lightgreen;
+}
+h2{
+    border-top: 5px lightgreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-bottom: 5px lightgreen;
+}
+h3{
+    border-top: 5px lightgreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-bottom: 5px lightgreen;
 }
 table {
     color: peru;
     font-family: 'Times New Roman', Times, serif;
-    text-align: center;
+}
+p {
+    color: gold;
+    border-bottom: 2px lightgreen;
 }
