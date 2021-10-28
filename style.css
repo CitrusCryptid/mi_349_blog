@@ -37,10 +37,13 @@ th {
     border-left: 2px solid lightcoral;
     border-right: 2px solid lightcoral;
 }
-tr {
+td {
+    border-left: 2px solid lightcoral;
+    border-right: 2px solid lightcoral;
     border-top: 2px solid lightcoral;
     border-bottom: 2px solid lightcoral;
 }
+
 
 p {
     color: gold;
