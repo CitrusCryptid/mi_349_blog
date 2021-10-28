@@ -7,24 +7,24 @@ h1{
     color: lightseagreen;
     text-align: center;
     text-size-adjust: 42;
-    border-top: 3px solid chartreuse;
+    border-top: 3px solid peru;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-   border-bottom: 3px solid chartreuse;
+   border-bottom: 3px solid peru;
 }
 
 h2{
     color: lightseagreen;
-    border-top: 3px solid   chartreuse;
+    border-top: 3px solid   peru;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    border-bottom: 3px solid  chartreuse;
+    border-bottom: 3px solid  peru;
 }
 
 h3{
     
     color: lightseagreen;
-    border-top: 3px solid chartreuse;
+    border-top: 3px solid peru;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    border-bottom: 3px solid  chartreuse;
+    border-bottom: 3px solid  peru;
 }
 
 h4 {
@@ -48,7 +48,7 @@ th {
     border-right: 2px solid gold;
 }
 td {
-    color: peru;
+    color: gold;
     border-left: 2px solid gold;
     border-right: 2px solid gold;
     border-top: 2px solid gold;
