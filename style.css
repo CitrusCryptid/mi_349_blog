@@ -33,7 +33,10 @@ table {
     border-top: 4px solid lightcoral;
     border-bottom: 4px solid lightcoral;
 }
-
+th {
+    border-left: 2px solid lightcoral;
+    border-right: 2px solid lightcoral;
+}
 tr {
     border-top: 2px solid lightcoral;
     border-bottom: 2px solid lightcoral;
