@@ -81,12 +81,10 @@ a {
 
 ul {
     color: gold;
-    text-align: center;
     border: peru;
 }
 li {
     border-bottom: peru;
-    text-align: center;
 }
 
 label{
@@ -94,9 +92,4 @@ label{
     margin-left: 50px;
     margin-right: 50px;
     color: gold;
-}
-
-#title {
-    text-align: center;
-    border-bottom: 1px peru;
 }
