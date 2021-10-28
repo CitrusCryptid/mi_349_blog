@@ -3,3 +3,10 @@ body {
     color: greenyellow;
     text-align: center;
 }
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+table {
+    color: peru;
+    font-family: 'Times New Roman', Times, serif;
+}
