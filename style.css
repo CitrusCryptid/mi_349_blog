@@ -70,10 +70,18 @@ a {
    border-left: 2px solid peru;
 }
 
+ul {
+    color: gold;
+    text-align: center;
+    border: peru;
+}
+li {
+    border-bottom: peru;
+}
+
 label{
     text-align: center;
     margin-left: 50px;
     margin-right: 50px;
     color: gold;
-
 }
