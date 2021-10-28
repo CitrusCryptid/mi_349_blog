@@ -69,3 +69,9 @@ a {
    color: mediumaquamarine; 
    border-left: 2px solid peru;
 }
+
+label{
+    text-align: center;
+    color: gold;
+
+}
