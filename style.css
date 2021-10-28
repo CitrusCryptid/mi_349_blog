@@ -83,7 +83,9 @@ ul {
     color: gold;
 }
 
-
+form {
+    align-items: center;
+}
 label{
     text-align: center;
     margin-left: 50px;
