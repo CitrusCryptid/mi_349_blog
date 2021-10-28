@@ -3,16 +3,20 @@ body {
    text-align: center;
 }
 h1{
+    color: lightseagreen;
     border-top: 5px lightgreen;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
    border-bottom: 5px lightgreen;
 }
 h2{
+    color: lightseagreen;
     border-top: 5px lightgreen;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     border-bottom: 5px lightgreen;
 }
 h3{
+    
+    color: lightseagreen;
     border-top: 5px lightgreen;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     border-bottom: 5px lightgreen;
