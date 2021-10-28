@@ -84,7 +84,7 @@ ul {
 }
 
 form {
-    align-items: center;
+   align-content: center;
 }
 label{
     margin-left: 50px;
