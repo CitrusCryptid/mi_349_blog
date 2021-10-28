@@ -31,6 +31,8 @@ p {
 a {
     border-right: 2px solid gold;
     font-family: fantasy;
+    text-indent: 5px;
+   
    color: mediumaquamarine; 
    border-left: 2px solid gold;
 }
