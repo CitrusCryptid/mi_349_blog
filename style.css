@@ -1,8 +1,8 @@
 body {
     background-color: black;
    text-align: left;
-   margin-block-start: 50px;
-   margin-block-end: 50px;
+   margin-left: 50px;
+   margin-right: 50px;
 }
 
 h1{
