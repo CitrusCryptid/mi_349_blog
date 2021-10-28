@@ -1,6 +1,7 @@
 body {
     background-color: black;
    text-align: left;
+   margin-inline: 50px;
 }
 
 h1{
