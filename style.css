@@ -37,22 +37,22 @@ h4 {
 table {
     
     font-family: 'Times New Roman', Times, serif;
-    border-right: 4px solid gold;
-    border-left: 4px solid gold;
-    border-top: 4px solid gold;
-    border-bottom: 4px solid gold;
+    border-right: 4px solid peru;
+    border-left: 4px solid peru;
+    border-top: 4px solid peru;
+    border-bottom: 4px solid peru;
 }
 th {
     color: lightseagreen;
-    border-left: 2px solid gold;
-    border-right: 2px solid gold;
+    border-left: 2px solid peru;
+    border-right: 2px solid peru;
 }
 td {
     color: gold;
-    border-left: 2px solid gold;
-    border-right: 2px solid gold;
-    border-top: 2px solid gold;
-    border-bottom: 2px solid gold;
+    border-left: 2px solid peru;
+    border-right: 2px solid peru;
+    border-top: 2px solid peru;
+    border-bottom: 2px solid peru;
 }
 
 
@@ -62,8 +62,8 @@ p {
 }
 
 a {
-    border-right: 2px solid gold;
+    border-right: 2px solid peru;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
    color: mediumaquamarine; 
-   border-left: 2px solid gold;
+   border-left: 2px solid peru;
 }
