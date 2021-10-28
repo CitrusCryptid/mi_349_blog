@@ -90,3 +90,7 @@ label{
     margin-right: 50px;
     color: gold;
 }
+
+button{
+    align-items: center;
+}
