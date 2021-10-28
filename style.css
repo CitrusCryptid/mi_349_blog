@@ -84,6 +84,7 @@ ul {
     border-top: 2px solid peru;
     border-left: 2px solid peru;
     border-right: 2px solid peru;
+    border-bottom: 2px solid peru;
 }
 li {
     border-bottom: peru;
