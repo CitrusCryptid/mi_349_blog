@@ -4,22 +4,22 @@ body {
 }
 h1{
     color: lightseagreen;
-    border-top: lightgreen;
+    border-top: 3px solid lightgreen;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-   border-bottom: lightgreen;
+   border-bottom: 3px solid lightgreen;
 }
 h2{
     color: lightseagreen;
-    border-top:  lightgreen;
+    border-top: 3px solid   lightgreen;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    border-bottom:  lightgreen;
+    border-bottom: 3px solid  lightgreen;
 }
 h3{
     
     color: lightseagreen;
-    border-top:  lightgreen;
+    border-top: 3px solid lightgreen;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    border-bottom:  lightgreen;
+    border-bottom: 3px solid  lightgreen;
 }
 table {
     color: peru;
@@ -27,5 +27,5 @@ table {
 }
 p {
     color: gold;
-    border-bottom:  lightgreen;
+    border-bottom: 3px solid  lightgreen;
 }
