@@ -89,9 +89,10 @@ form {
     text-align: center;
 }
 label{
-    
+    border-bottom: 4px solid peru;
     color: gold;
 }
+
 
 
 
