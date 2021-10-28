@@ -29,9 +29,9 @@ p {
     color: gold;
 }
 a {
-    border-right: 2px solid gold;
+    border-right: 4px solid gold;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  text-indent: 10px;
    color: mediumaquamarine; 
-   border-left: 2px solid gold;
+   text-size-adjust: 18;
+   border-left: 4px solid gold;
 }
