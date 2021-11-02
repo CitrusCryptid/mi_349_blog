@@ -9,24 +9,24 @@ h1{
     color: lightseagreen;
     text-align: center;
     text-size-adjust: 42;
-    border-top: 3px solid peru;
+    border-top: 3px solid green;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-   border-bottom: 3px solid peru;
+   border-bottom: 3px solid green;
 }
 
 h2{
     color: lightseagreen;
-    border-top: 3px solid   peru;
+    border-top: 3px solid   green;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    border-bottom: 3px solid  peru;
+    border-bottom: 3px solid  green;
 }
 
 h3{
     
     color: lightseagreen;
-    border-top: 3px solid peru;
+    border-top: 3px solid green;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    border-bottom: 3px solid  peru;
+    border-bottom: 3px solid  green;
 }
 
 h4 {
@@ -39,7 +39,7 @@ h4 {
 h5 {
     text-align:  center;
     text-size-adjust: 38;
-    border-bottom: peru;
+    border-bottom: green;
     text-align: center;
     color: lightseagreen;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -48,22 +48,22 @@ h5 {
 table {
     
     font-family: 'Times New Roman', Times, serif;
-    border-right: 4px solid peru;
-    border-left: 4px solid peru;
-    border-top: 4px solid peru;
-    border-bottom: 4px solid peru;
+    border-right: 4px solid green;
+    border-left: 4px solid green;
+    border-top: 4px solid green;
+    border-bottom: 4px solid green;
 }
 th {
     color: lightseagreen;
-    border-left: 2px solid peru;
-    border-right: 2px solid peru;
+    border-left: 2px solid green;
+    border-right: 2px solid green;
 }
 td {
     color: gold;
-    border-left: 2px solid peru;
-    border-right: 2px solid peru;
-    border-top: 2px solid peru;
-    border-bottom: 2px solid peru;
+    border-left: 2px solid green;
+    border-right: 2px solid green;
+    border-top: 2px solid green;
+    border-bottom: 2px solid green;
 }
 
 
@@ -73,10 +73,10 @@ p {
 }
 
 a {
-    border-right: 2px solid peru;
+    border-right: 2px solid green;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
    color: mediumaquamarine; 
-   border-left: 2px solid peru;
+   border-left: 2px solid green;
 }
 
 ul {
